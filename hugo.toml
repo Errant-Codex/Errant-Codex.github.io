@@ -5,9 +5,9 @@ theme = "PaperMod"
 
 [params]
 description = "Ideas at the margins"
-ShowReadingTime = True
-ShowPostNavLinks = True
-ShowBreadCrumbs = True
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
 
 [menu]
 [[menu.main]]
